@@ -61,10 +61,6 @@ const skills = [
         name: "Figma",
         value: 60,
     },
-    {
-        name: "Solidity",
-        value: 30,
-    },
 ];
 
 const services = [{
@@ -101,14 +97,24 @@ const dataportfolio = [{
         link: "https://www.snoreexperts.com/",
     },
     {
-        img: "https://photos.app.goo.gl/ZLLRLPPorcjsNEKT9",
-        description: "Member data system for the Paskas Jogja organization.",
-        link: "https://app.paskasjogja.com/",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4jYYxF_0-wPzu-wmJrgqVaX5jC44B3t2kEQ&s",
+        description: "Record data member for the Paskas Jogja organization.",
+        link: "https://docs.google.com/presentation/d/1wGpWCySBx-POn7zUdYqY-MIESTzkFzuU3O5F7Uc5BRc/edit#slide=id.gc6f80d1ff_0_27",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://asset-3.tstatic.net/jualbeli/img/2022/3/2427499/3-645442365-Sewa-Kursi-Roda-Jogja.jpg",
         description: "Sulawesi wheelchair rental landing page.",
-        link: "https://fafemedika.com/",
+        link: "https://docs.google.com/presentation/d/1wGpWCySBx-POn7zUdYqY-MIESTzkFzuU3O5F7Uc5BRc/edit#slide=id.g2231e87d752_0_3",
+    },
+    {
+        img: "https://tix.fathom.events/wp-content/uploads/2021/10/Asset-2.png",
+        description: "Event booking tickets.",
+        link: "https://tix.fathom.events/",
+    },
+    {
+        img: "https://pertagas.pertamina.com/Static/pertagas/common/images/logo-pertagas.png",
+        description: "Web Strategic Initiative dashboard from Pertamina Gas.",
+        link: "https://docs.google.com/presentation/d/1wGpWCySBx-POn7zUdYqY-MIESTzkFzuU3O5F7Uc5BRc/edit#slide=id.gfc4728ad75_0_21",
     },
 ];
 
