@@ -116,6 +116,16 @@ const dataportfolio = [{
         description: "Web Strategic Initiative dashboard from Pertamina Gas.",
         link: "https://docs.google.com/presentation/d/1wGpWCySBx-POn7zUdYqY-MIESTzkFzuU3O5F7Uc5BRc/edit#slide=id.gfc4728ad75_0_21",
     },
+    {
+        img: "https://geko.t4t-api.org/images/GEKO_short.png",
+        description: "Farmer data collection application, land and plant monitoring.",
+        link: "https://docs.google.com/presentation/d/1wGpWCySBx-POn7zUdYqY-MIESTzkFzuU3O5F7Uc5BRc/edit#slide=id.gfc4728ad75_0_21",
+    },
+    {
+        img: "https://nursery.trees4trees.org/static/img/logo/logo.png",
+        description: "Seedling production monitoring in nurseries. For internal webiste.",
+        link: "https://nursery.trees4trees.org/",
+    },
 ];
 
 const contactConfig = {
